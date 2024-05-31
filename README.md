@@ -1,4 +1,8 @@
 # project_landingpage
+This is a project from The Odin Project that required me to create a simple webpage using 
+HTML and CSS knowledge gained so far. This project relied heavily on flexbox.
+
+
 Photo by <a href="https://unsplash.com/@mayurarvind?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mayur Arvind</a> on <a href="https://unsplash.com/photos/a-person-standing-on-top-of-a-rocky-cliff-N-Hjn6Fcr7Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 Photo by <a href="https://unsplash.com/@lifeof_peter_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Peter Thomas</a> on <a href="https://unsplash.com/photos/a-man-taking-a-picture-of-himself-in-a-rear-view-mirror-N0xMuln2TPo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
